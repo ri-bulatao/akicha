@@ -1,0 +1,409 @@
+[
+  {
+    "menu_name": "Aki's Classic",
+    "menu_description": "",
+    "menu_price": 60,
+    "minimum_qty": 1,
+    "menu_status": 1,
+    "menu_options": [
+      "Size",
+      "Add-ons"
+    ]
+  },
+    {
+      "menu_name": "Wintermelon",
+      "menu_description": "",
+      "menu_price": 60,
+      "minimum_qty": 1,
+      "menu_status": 1,
+      "menu_options": [
+        "Size",
+        "Add-ons"
+      ]
+    },
+    {
+      "menu_name": "Cofee Jelly",
+      "menu_description": "",
+      "menu_price": 65,
+      "minimum_qty": 1,
+      "menu_status": 1,
+      "menu_options": [
+        "Size",
+        "Add-ons"
+      ]
+    },
+    {
+      "menu_name": "Dark Choco",
+      "menu_description": "",
+      "menu_price": 65,
+      "minimum_qty": 1,
+      "menu_status": 1,
+      "menu_options": [
+        "Size",
+        "Add-ons"
+      ]
+    },
+    {
+      "menu_name": "Melona",
+      "menu_description": "",
+      "menu_price": 65,
+      "minimum_qty": 1,
+      "menu_status": 1,
+      "menu_options": [
+        "Size",
+        "Add-ons"
+      ]
+    },
+    {
+      "menu_name": "Salted Caramel",
+      "menu_description": "",
+      "menu_price": 65,
+      "minimum_qty": 1,
+      "menu_status": 1,
+      "menu_options": [
+        "Size",
+        "Add-ons"
+      ]
+    },
+    {
+      "menu_name": "Taro",
+      "menu_description": "",
+      "menu_price": 65,
+      "minimum_qty": 1,
+      "menu_status": 1,
+      "menu_options": [
+        "Size",
+        "Add-ons"
+      ]
+    },
+    {
+      "menu_name": "Strawberry",
+      "menu_description": "",
+      "menu_price": 65,
+      "minimum_qty": 1,
+      "menu_status": 1,
+      "menu_options": [
+        "Size",
+        "Add-ons"
+      ]
+    },
+    {
+      "menu_name": "Okinawa",
+      "menu_description": "",
+      "menu_price": 70,
+      "minimum_qty": 1,
+      "menu_status": 1,
+      "menu_options": [
+        "Size",
+        "Add-ons"
+      ]
+    },
+    {
+      "menu_name": "Tiger Brown Sugar",
+      "menu_description": "",
+      "menu_price": 70,
+      "minimum_qty": 1,
+      "menu_status": 1,
+      "menu_options": [
+        "Size",
+        "Add-ons"
+      ]
+    },
+    {
+      "menu_name": "Milo Dinosaur",
+      "menu_description": "",
+      "menu_price": 70,
+      "minimum_qty": 1,
+      "menu_status": 1,
+      "menu_options": [
+        "Size",
+        "Add-ons"
+      ]
+    },
+    {
+      "menu_name": "Oreo Milk tea",
+      "menu_description": "",
+      "menu_price": 70,
+      "minimum_qty": 1,
+      "menu_status": 1,
+      "menu_options": [
+        "Size",
+        "Add-ons"
+      ]
+    },
+    {
+      "menu_name": "White Rabbit",
+      "menu_description": "",
+      "menu_price": 70,
+      "minimum_qty": 1,
+      "menu_status": 1,
+      "menu_options": [
+        "Size",
+        "Add-ons"
+      ]
+    },
+    {
+      "menu_name": "Red Velvet",
+      "menu_description": "",
+      "menu_price": 70,
+      "minimum_qty": 1,
+      "menu_status": 1,
+      "menu_options": [
+        "Size",
+        "Add-ons"
+      ]
+    },
+    {
+      "menu_name": "Matcha",
+      "menu_description": "",
+      "menu_price": 70,
+      "minimum_qty": 1,
+      "menu_status": 1,
+      "menu_options": [
+        "Size",
+        "Add-ons"
+      ]
+    },
+    {
+      "menu_name": "Choco Lava",
+      "menu_description": "",
+      "menu_price": 75,
+      "minimum_qty": 1,
+      "menu_status": 1,
+      "menu_options": [
+        "Size",
+        "Add-ons"
+      ]
+    },
+    {
+      "menu_name": "Choco Caramel",
+      "menu_description": "",
+      "menu_price": 75,
+      "minimum_qty": 1,
+      "menu_status": 1,
+      "menu_options": [
+        "Size",
+        "Add-ons"
+      ]
+    },
+    {
+      "menu_name": "Choco Java Chip",
+      "menu_description": "",
+      "menu_price": 75,
+      "minimum_qty": 1,
+      "menu_status": 1,
+      "menu_options": [
+        "Size",
+        "Add-ons"
+      ]
+    },
+    {
+      "menu_name": "Chocoberry Puff",
+      "menu_description": "",
+      "menu_price": 80,
+      "minimum_qty": 1,
+      "menu_status": 1,
+      "menu_options": [
+        "Size",
+        "Add-ons"
+      ]
+    },
+    {
+      "menu_name": "Dark Choco Oreo",
+      "menu_description": "",
+      "menu_price": 80,
+      "minimum_qty": 1,
+      "menu_status": 1,
+      "menu_options": [
+        "Size",
+        "Add-ons"
+      ]
+    },
+    {
+      "menu_name": "Choco Nutella",
+      "menu_description": "",
+      "menu_price": 80,
+      "minimum_qty": 1,
+      "menu_status": 1,
+      "menu_options": [
+        "Size",
+        "Add-ons"
+      ]
+    },
+    {
+      "menu_name": "Choco Overload",
+      "menu_description": "",
+      "menu_price": 90,
+      "minimum_qty": 1,
+      "menu_status": 1,
+      "menu_options": [
+        "Size",
+        "Add-ons"
+      ]
+    },
+    {
+      "menu_name": "Lychee Fruit Tea",
+      "menu_description": "",
+      "menu_price": 60,
+      "minimum_qty": 1,
+      "menu_status": 1,
+      "menu_options": [
+        "Size",
+        "Add-ons"
+      ]
+    },
+    {
+      "menu_name": "Green Apple Fruit Tea",
+      "menu_description": "",
+      "menu_price": 60,
+      "minimum_qty": 1,
+      "menu_status": 1,
+      "menu_options": [
+        "Size",
+        "Add-ons"
+      ]
+    },
+    {
+      "menu_name": "Passion  Fruit Tea",
+      "menu_description": "",
+      "menu_price": 60,
+      "minimum_qty": 1,
+      "menu_status": 1,
+      "menu_options": [
+        "Size",
+        "Add-ons"
+      ]
+    },
+    {
+      "menu_name": "Lemon Fruit Tea",
+      "menu_description": "",
+      "menu_price": 60,
+      "minimum_qty": 1,
+      "menu_status": 1,
+      "menu_options": [
+        "Size",
+        "Add-ons"
+      ]
+    },
+    {
+      "menu_name": "Kiwi Fruit Tea",
+      "menu_description": "",
+      "menu_price": 60,
+      "minimum_qty": 1,
+      "menu_status": 1,
+      "menu_options": [
+        "Size",
+        "Add-ons"
+      ]
+    },
+    {
+      "menu_name": "Mango Fruit Tea",
+      "menu_description": "",
+      "menu_price": 60,
+      "minimum_qty": 1,
+      "menu_status": 1,
+      "menu_options": [
+        "Size",
+        "Add-ons"
+      ]
+    },
+    {
+      "menu_name": "Strawberry Fruit Tea",
+      "menu_description": "",
+      "menu_price": 60,
+      "minimum_qty": 1,
+      "menu_status": 1,
+      "menu_options": [
+        "Size",
+        "Add-ons"
+      ]
+    },
+    {
+      "menu_name": "Aki's Cream Puff",
+      "menu_description": "",
+      "menu_price": 70,
+      "minimum_qty": 1,
+      "menu_status": 1,
+      "menu_options": [
+        "Size",
+        "Add-ons"
+      ]
+    },
+    {
+      "menu_name": "Wintermelon Puff",
+      "menu_description": "",
+      "menu_price": 70,
+      "minimum_qty": 1,
+      "menu_status": 1,
+      "menu_options": [
+        "Size",
+        "Add-ons"
+      ]
+    },
+    {
+      "menu_name": "Coffe Jelly Puff",
+      "menu_description": "",
+      "menu_price": 75,
+      "minimum_qty": 1,
+      "menu_status": 1,
+      "menu_options": [
+        "Size",
+        "Add-ons"
+      ]
+    },
+    {
+      "menu_name": "Dark Choco Puff",
+      "menu_description": "",
+      "menu_price": 75,
+      "minimum_qty": 1,
+      "menu_status": 1,
+      "menu_options": [
+        "Size",
+        "Add-ons"
+      ]
+    },
+    {
+      "menu_name": "Taro Puff",
+      "menu_description": "",
+      "menu_price": 75,
+      "minimum_qty": 1,
+      "menu_status": 1,
+      "menu_options": [
+        "Size",
+        "Add-ons"
+      ]
+    },
+    {
+      "menu_name": "Oreo Puff",
+      "menu_description": "",
+      "menu_price": 80,
+      "minimum_qty": 1,
+      "menu_status": 1,
+      "menu_options": [
+        "Size",
+        "Add-ons"
+      ]
+    },
+    {
+      "menu_name": "Red Velvet Puff",
+      "menu_description": "",
+      "menu_price": 80,
+      "minimum_qty": 1,
+      "menu_status": 1,
+      "menu_options": [
+        "Size",
+        "Add-ons"
+      ]
+    },
+    {
+      "menu_name": "Matcha Puff",
+      "menu_description": "",
+      "menu_price": 80,
+      "minimum_qty": 1,
+      "menu_status": 1,
+      "menu_options": [
+        "Size",
+        "Add-ons"
+      ]
+    }
+]

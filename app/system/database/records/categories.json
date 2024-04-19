@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Classic Kennel",
+    "description": "",
+    "priority": 1,
+    "status": 1
+  },
+  {
+    "name": "Choco Kennel",
+    "description": "",
+    "priority": 2,
+    "status": 1
+  },
+  {
+    "name": "Premium Kennel",
+    "description": "",
+    "priority": 3,
+    "status": 1
+  },
+  {
+    "name": "Cheesecake Kennel",
+    "description": "",
+    "priority": 4,
+    "status": 1
+  },
+  {
+    "name": "Fruit Tea Kennel",
+    "description": "",
+    "priority": 5,
+    "status": 1
+  }
+]

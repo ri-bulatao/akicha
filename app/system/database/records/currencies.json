@@ -1,0 +1,16 @@
+[
+  {
+    "currency_name": "Peso",
+    "currency_code": "PHP",
+    "currency_symbol": "₱",
+    "currency_rate": 0,
+    "symbol_position": 0,
+    "thousand_sign": ",",
+    "decimal_sign": ".",
+    "decimal_position": "2",
+    "iso_alpha2": "PH",
+    "iso_alpha3": "PHL",
+    "iso_numeric": 608,
+    "currency_status": 1
+  }
+]

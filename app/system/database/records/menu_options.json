@@ -1,0 +1,65 @@
+[
+  {
+    "option_name": "Size",
+    "display_type": "radio",
+    "option_values": [
+      {
+        "value": "Shii-Tsaa (160z)",
+        "price": 0,
+        "priority": 1
+      },
+      {
+        "value": "Cha-o Cha-o(22oz)",
+        "price": 10,
+        "priority": 2
+      }
+    ]
+  },
+  
+  {
+    "option_name": "Add-ons",
+    "display_type": "checkbox",
+    "option_values":   [
+      {
+        "value": "Pearl",
+        "price": 15,
+        "priority": 1
+      },
+      {
+        "value": "Cofee Jelly",
+        "price": 20,
+        "priority": 2
+      },
+      {
+        "value": "Cream Puff",
+        "price": 20,
+        "priority": 3
+      },
+      {
+        "value": "Crushed Oreo",
+        "price": 15,
+        "priority": 4
+      },
+      {
+        "value": "Nata",
+        "price": 15,
+        "priority": 5
+      },
+      {
+        "value": "Fruit Jelly",
+        "price": 15,
+        "priority": 6
+      },
+      {
+        "value": "Yakult",
+        "price": 10,
+        "priority": 7
+      },
+      {
+        "value": "Popping Pearls",
+        "price": 20,
+        "priority": 8
+      }
+    ]
+  }
+]
