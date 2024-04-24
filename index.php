@@ -2,8 +2,6 @@
 
 /**
  *
- * @package  TastyIgniter
- * @author   Samuel Adepoyigi
  */
 
 /*
