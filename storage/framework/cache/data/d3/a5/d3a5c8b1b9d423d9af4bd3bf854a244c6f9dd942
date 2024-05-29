@@ -1,0 +1,33 @@
+1717006750a:2:{s:4:"data";a:1:{i:0;a:11:{s:4:"code";s:12:"tastyigniter";s:4:"name";s:12:"TastyIgniter";s:6:"author";s:16:"Samuel Adepoyigi";s:11:"description";s:111:"Powerful, yet easy to use, open source online food ordering, table reservation and restaurant management system";s:4:"icon";s:27:"icon-logo icon-ti-text-logo";s:4:"type";s:4:"core";s:4:"hash";s:40:"36b6b448e89034cb4fd5c2fcd928fe362df44856";s:7:"version";s:6:"v3.7.6";s:7:"package";s:25:"tastyigniter/tastyigniter";s:12:"published_at";s:27:"2024-05-07T23:19:58.000000Z";s:4:"tags";a:1:{s:4:"data";a:4:{i:0;a:3:{s:3:"tag";s:6:"v3.7.6";s:11:"description";s:945:"## What's Changed
+* Clean JS files for case-insensitive file systems by @heyanlong in https://github.com/tastyigniter/TastyIgniter/pull/1057
+* Update $defaultFormat in Country.php by @antoniozh in https://github.com/tastyigniter/TastyIgniter/pull/1067
+* Bump follow-redirects from 1.15.2 to 1.15.4 in /app/admin/assets by @dependabot in https://github.com/tastyigniter/TastyIgniter/pull/1065
+* Fixed path to the Menus-v2 image file in demo theme. by @mindflowgo in https://github.com/tastyigniter/TastyIgniter/pull/1077
+
+## New Contributors
+* @heyanlong made their first contribution in https://github.com/tastyigniter/TastyIgniter/pull/1057
+* @antoniozh made their first contribution in https://github.com/tastyigniter/TastyIgniter/pull/1067
+* @mindflowgo made their first contribution in https://github.com/tastyigniter/TastyIgniter/pull/1077
+
+**Full Changelog**: https://github.com/tastyigniter/TastyIgniter/compare/v3.7.5...v3.7.6";s:12:"published_at";s:27:"2024-05-07T23:19:58.000000Z";}i:1;a:3:{s:3:"tag";s:6:"v3.7.6";s:11:"description";s:945:"## What's Changed
+* Clean JS files for case-insensitive file systems by @heyanlong in https://github.com/tastyigniter/TastyIgniter/pull/1057
+* Update $defaultFormat in Country.php by @antoniozh in https://github.com/tastyigniter/TastyIgniter/pull/1067
+* Bump follow-redirects from 1.15.2 to 1.15.4 in /app/admin/assets by @dependabot in https://github.com/tastyigniter/TastyIgniter/pull/1065
+* Fixed path to the Menus-v2 image file in demo theme. by @mindflowgo in https://github.com/tastyigniter/TastyIgniter/pull/1077
+
+## New Contributors
+* @heyanlong made their first contribution in https://github.com/tastyigniter/TastyIgniter/pull/1057
+* @antoniozh made their first contribution in https://github.com/tastyigniter/TastyIgniter/pull/1067
+* @mindflowgo made their first contribution in https://github.com/tastyigniter/TastyIgniter/pull/1077
+
+**Full Changelog**: https://github.com/tastyigniter/TastyIgniter/compare/v3.7.5...v3.7.6";s:12:"published_at";s:27:"2024-05-07T23:19:58.000000Z";}i:2;a:3:{s:3:"tag";s:6:"v3.7.5";s:11:"description";s:404:"## What's Changed
+* Fixed error when loading admin dashboard widgets
+* system.urlPolicy config can be set from env variable by @mrdezzods in https://github.com/tastyigniter/TastyIgniter/pull/1063
+* Resolve temporarily open_basedir issue by @Concreta09 in https://github.com/tastyigniter/TastyIgniter/pull/1061
+
+**Full Changelog**: https://github.com/tastyigniter/TastyIgniter/compare/v3.7.3...v3.7.5";s:12:"published_at";s:27:"2023-12-31T14:28:11.000000Z";}i:3;a:3:{s:3:"tag";s:6:"v3.7.5";s:11:"description";s:404:"## What's Changed
+* Fixed error when loading admin dashboard widgets
+* system.urlPolicy config can be set from env variable by @mrdezzods in https://github.com/tastyigniter/TastyIgniter/pull/1063
+* Resolve temporarily open_basedir issue by @Concreta09 in https://github.com/tastyigniter/TastyIgniter/pull/1061
+
+**Full Changelog**: https://github.com/tastyigniter/TastyIgniter/compare/v3.7.3...v3.7.5";s:12:"published_at";s:27:"2023-12-31T14:28:11.000000Z";}}}}}s:10:"check_time";s:19:"2024-05-29 23:19:11";}

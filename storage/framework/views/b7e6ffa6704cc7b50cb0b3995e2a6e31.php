@@ -1,1 +1,0 @@
-<?php echo e($site_name); ?> order confirmation - <?php echo e($order_number); ?>
