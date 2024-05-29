@@ -1,0 +1,1 @@
+New order on <?php echo e($site_name); ?>

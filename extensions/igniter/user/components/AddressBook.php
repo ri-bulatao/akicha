@@ -49,6 +49,7 @@ class AddressBook extends \System\Classes\BaseComponent
             ['address.country_id', 'lang:igniter.user::default.account.label_country', 'required|integer'],
         ];
 
+
         if (!$this->validatePasses($data, $rules))
             return $this->onLoadAddForm();
 
@@ -61,9 +62,13 @@ class AddressBook extends \System\Classes\BaseComponent
         if (!$address || $address->customer_id != $customer->customer_id)
             $address = Addresses_model::make();
 
+            
+
         $address->fill(array_get($data, 'address'));
         $address->customer_id = $customer->customer_id;
         $address->save();
+
+        
 
         flash()->success(lang('igniter.user::default.account.alert_updated_success'))->now();
 

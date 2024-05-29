@@ -1,15 +1,20 @@
+<head>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAzBzTyWD60Jc60vU37F8fwwOL2jKkk3FI&libraries=places"></script>
+</head>
+
 @if (count($customerAddresses))
     <div class="list-group list-group-flush">
         @foreach ($customerAddresses as $address)
             <div
-                class="list-group-item {{ ($customer->address_id == $address->address_id) ? 'list-group-item-info' : '' }}"
+                class="mb-3 list-group-item {{ ($customer->address_id == $address->address_id) ? 'list-group-item-info' : '' }}"
+                style="position: relative;"
             >
-                <address class="text-left">{{ format_address($address) }}</address>
-                <span class="">
-                    <a
+                <address class="text-left mb-0 py-2">{{ format_address($address) }}</address>
+                <span class="" style="position: absolute; top: 10px; right: 20px;">
+                    <!-- <a
                         class="btn btn-outline-default"
-                        href="{{ site_url('account/address', ['addressId' => $address->address_id]) }}"
-                    >@lang('igniter.user::default.account.text_edit')</a>
+                        href="{{ site_url('account/address') . '/' . $address->address_id }}"
+                    >@lang('igniter.user::default.account.text_edit')</a> -->
                     <button
                         type="button"
                         class="btn text-danger pull-right"
@@ -19,7 +24,7 @@
                     @if ($customer->address_id != $address->address_id)
                         <a
                             class="btn btn-outline-default"
-                            href="{{ site_url('account/address', ['addressId' => $address->address_id]) }}?setDefault=1"
+                            href="{{ site_url('account/address') . '/' . $address->address_id }}?setDefault=1"
                         >@lang('igniter.user::default.text_set_default')</a>
                     @endif
                 </span>

@@ -36,7 +36,7 @@ class Country
 
         // Override format if present in address array
         if (!empty($address['format']))
-            $format = $address['format'];
+            $format = "{address_1}\n{city} {postcode} {state}\n{country}";
 
         $formattedAddress = str_replace(['\r\n', '\r', '\n'], '<br />',
             preg_replace(['/\s\s+/', '/\r\r+/', '/\n\n+/'], '<br />',
@@ -45,9 +45,7 @@ class Country
                 ], array_except($address, 'format'), $format))
             )
         );
-
-        if (!$useLineBreaks)
-            $formattedAddress = str_replace('<br />', ', ', $formattedAddress);
+        $formattedAddress = str_replace(', ,', ', ', str_replace('<br />', ', ', $formattedAddress));
 
         return strip_tags($formattedAddress);
     }
